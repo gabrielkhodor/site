@@ -1,4 +1,7 @@
 # site Calculadora de IMC
+
+---
+
 ## Site para concientizar sobre  dicas de estilo de vida saudável, com dicas de alimentação e de alguns passos a se seguir como exemplo.
 # tags de html usadas 
 ### A de estrutura do html5 contendo as tags de cabeçalho 
@@ -36,6 +39,12 @@ container
 ## Link do projeto
 ```
 https://github.com/gabrielkhodor/site/tree/main
+
+```
+## Link do site
+
+```
+https://calculadordeimc.netlify.app
 ```
 ## 📌 Versão
 
